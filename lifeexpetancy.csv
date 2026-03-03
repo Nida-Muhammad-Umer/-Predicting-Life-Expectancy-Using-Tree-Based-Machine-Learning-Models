@@ -1,0 +1,367 @@
+country,life_expectancy ,Year,status,adult_mortality,infant_deaths,bmi,gdp,population
+Afghanistan,65,2015,Developing,263,62,19.1,584.25921,33736494
+Albania,77.8,2015,Developing,74,0,58,3954.22783,28873
+Algeria,75.6,2015,Developing,19,21,59.5,4132.76292,39871528
+Angola,52.4,2015,Developing,335,66,23.3,3695.793748,2785935
+Antigua and Barbuda,76.4,2015,Developing,13,0,47.7,13566.9541,
+Argentina,76.3,2015,Developing,116,8,62.8,13467.1236,43417765
+Armenia,74.8,2015,Developing,118,1,54.9,369.654776,291695
+Australia,82.8,2015,Developed,59,1,66.6,56554.3876,23789338
+Austria,81.5,2015,Developed,65,0,57.6,43665.947,8633169
+Azerbaijan,72.7,2015,Developing,118,5,52.5,55.31382,9649341
+Bahamas,76.1,2015,Developing,147,0,64.5,,
+Bahrain,76.9,2015,Developing,69,0,63.6,22688.87824,
+Bangladesh,71.8,2015,Developing,129,92,18.3,121.15812,1612886
+Barbados,75.5,2015,Developing,98,0,54.5,15557.8381,
+Belarus,72.3,2015,Developing,196,0,62.3,5949.11677,9489616
+Belgium,81.1,2015,Developed,74,0,63.7,4356.875,11274196
+Belize,71,2015,Developing,175,0,5.9,4849.997495,359288
+Benin,60,2015,Developing,249,25,25.7,783.94791,1575952
+Bhutan,69.8,2015,Developing,211,0,24.5,2613.645177,787386
+Bolivia (Plurinational State of),77,2015,Developing,186,8,52.6,,
+Bosnia and Herzegovina,77.4,2015,Developing,88,0,55.8,4574.9787,3535961
+Botswana,65.7,2015,Developing,256,2,37.9,6532.651,229197
+Brazil,75,2015,Developing,142,42,56.1,8757.2622,2596218
+Brunei Darussalam,77.7,2015,Developing,78,0,41.2,3967.8951,
+Bulgaria,74.5,2015,Developed,137,0,65.7,6993.47736,7177991
+Burkina Faso,59.9,2015,Developing,26,38,19.4,615.592225,1811624
+Burundi,59.6,2015,Developing,288,21,18.7,33.681223,119927
+Côte d'Ivoire,53.3,2015,Developing,397,57,28,,
+Cabo Verde,73.3,2015,Developing,114,0,31.3,2954.119467,532913
+Cambodia,68.7,2015,Developing,174,10,19.6,1163.18977,15517635
+Cameroon,57.3,2015,Developing,357,45,29,1244.429421,22834522
+Canada,82.2,2015,Developing,64,2,67,43315.744,3584861
+Central African Republic,52.5,2015,Developing,397,15,22.7,348.381417,45461
+Chad,53.1,2015,Developing,356,46,19.1,777.248751,149413
+Chile,85,2015,Developing,82,2,63.8,13653.2264,17762681
+China,76.1,2015,Developing,85,157,32.9,869.211938,137122
+Colombia,74.8,2015,Developing,143,10,57.9,644.525556,48228697
+Comoros,63.5,2015,Developing,227,1,24.2,727.6463868,777424
+Congo,64.7,2015,Developing,267,7,27.4,,
+Costa Rica,79.6,2015,Developing,95,1,6.5,1146.36273,487852
+Croatia,78,2015,Developed,95,0,63.7,11579.6674,42364
+Cuba,79.1,2015,Developing,92,1,61.4,762.261218,
+Cyprus,85,2015,Developed,52,0,6.3,2375.1127,116985
+Czechia,78.8,2015,Developed,86,0,66.1,,
+Democratic People's Republic of Korea,76,2015,Developing,139,6,32.9,,
+Democratic Republic of the Congo,59.8,2015,Developing,258,236,21.6,,
+Denmark,86,2015,Developed,71,0,58.8,5314.64416,5683483
+Djibouti,63.5,2015,Developing,241,1,35,1862.167274,927414
+Dominican Republic,73.9,2015,Developing,152,6,58.9,6468.471648,1528394
+Ecuador,76.2,2015,Developing,118,6,54.2,625.62224,16144368
+Egypt,79,2015,Developing,159,51,61.1,,
+El Salvador,73.5,2015,Developing,178,2,56.1,4127.11775,6312478
+Equatorial Guinea,58.2,2015,Developing,32,3,24.5,1347.31257,1175389
+Eritrea,64.7,2015,Developing,255,5,18.6,,
+Estonia,77.6,2015,Developing,119,0,59.9,1774.9291,131547
+Ethiopia,64.8,2015,Developing,225,136,17.6,645.4637627,9987333
+Fiji,69.9,2015,Developing,188,0,62.7,4921.89629,892149
+Finland,81.1,2015,Developing,76,0,62.1,4245.39744,5479531
+France,82.4,2015,Developing,78,2,62.5,36526.7711,6662468
+Gabon,66,2015,Developing,229,2,36.3,7388.984144,193175
+Gambia,61.1,2015,Developing,262,3,27.3,,
+Georgia,74.4,2015,Developing,129,1,56.2,3764.64912,37171
+Germany,81,2015,Developed,68,2,62.3,41176.88158,81686611
+Ghana,62.4,2015,Developing,249,37,28.6,1361.11395,27582821
+Greece,81,2015,Developing,72,0,66.5,187.78991,182883
+Grenada,73.6,2015,Developing,142,0,48.4,9212.192824,
+Guatemala,71.9,2015,Developing,186,10,5.6,3923.573344,16252429
+Guinea,59,2015,Developing,284,26,23.3,554.48766,1291533
+Guinea-Bissau,58.9,2015,Developing,275,4,26.3,596.8717189,177526
+Guyana,66.2,2015,Developing,215,0,46.7,4136.689919,768514
+Haiti,63.5,2015,Developing,24,14,49.9,814.5463952,171161
+Honduras,74.6,2015,Developing,147,3,51,2326.15856,896829
+Hungary,75.8,2015,Developed,134,0,64.8,12365.6263,984328
+Iceland,82.7,2015,Developed,49,0,61,5734.4436,33815
+India,68.3,2015,Developing,181,910,18.7,1613.18878,1395398
+Indonesia,69.1,2015,Developing,176,114,27.4,3336.16686,258162113
+Iran (Islamic Republic of),75.5,2015,Developing,83,18,59.7,,
+Iraq,68.9,2015,Developing,182,32,59.1,4974.2693,36115649
+Ireland,81.4,2015,Developed,64,0,62.8,6664.144,4676835
+Israel,82.5,2015,Developing,58,0,64.9,35729.37253,8381
+Italy,82.7,2015,Developed,56,1,63.6,349.14755,673582
+Jamaica,76.2,2015,Developing,125,1,54.2,4965.989857,2871934
+Japan,83.7,2015,Developed,55,2,29,34474.13736,127141
+Jordan,74.1,2015,Developing,112,4,65.6,496.99275,915932
+Kazakhstan,72,2015,Developing,198,4,53.1,159.9817,17544126
+Kenya,63.4,2015,Developing,249,54,22,1349.97144,47236259
+Kiribati,66.3,2015,Developing,198,0,77.6,1424.483611,11247
+Kuwait,74.7,2015,Developing,81,0,71.4,28975.418,
+Kyrgyzstan,71.1,2015,Developing,166,3,44.9,,
+Lao People's Democratic Republic,65.7,2015,Developing,194,8,21.7,,
+Latvia,74.6,2015,Developed,153,0,61.2,13666.58336,1977527
+Lebanon,74.9,2015,Developing,98,1,66.1,846.632851,5851479
+Lesotho,53.7,2015,Developing,484,4,32.6,173.82893,2174645
+Liberia,61.4,2015,Developing,259,8,27.3,452.38717,4499621
+Libya,72.7,2015,Developing,138,1,64.8,,
+Lithuania,73.6,2015,Developed,165,0,62.4,14252.42853,29491
+Luxembourg,82,2015,Developed,63,0,61.3,1199.8223,56964
+Madagascar,65.5,2015,Developing,22,28,2.5,41.8575951,2423488
+Malawi,58.3,2015,Developing,365,26,19.6,362.6575444,1757367
+Malaysia,75,2015,Developing,123,4,4.6,9643.644683,3723155
+Maldives,78.5,2015,Developing,61,0,27.4,8395.785198,49163
+Mali,58.2,2015,Developing,266,52,23.8,729.725338,1746795
+Malta,81.7,2015,Developed,54,0,69.6,23819.4636,431874
+Mauritania,63.1,2015,Developing,25,8,3.8,1158.256469,4182341
+Mauritius,74.6,2015,Developing,146,0,33.3,9252.11724,126265
+Mexico,76.7,2015,Developing,122,30,63.5,9143.128494,12589949
+Micronesia (Federated States of),69.4,2015,Developing,166,0,69.4,,
+Mongolia,68.8,2015,Developing,222,1,52.7,3944.1839,2976877
+Montenegro,76.1,2015,Developing,16,0,61.8,6461.192554,622159
+Morocco,74.3,2015,Developing,95,17,58.5,2847.285569,3483322
+Mozambique,57.6,2015,Developing,355,60,22.6,528.3125597,281691
+Myanmar,66.6,2015,Developing,199,39,23.8,1194.59137,5243669
+Namibia,65.8,2015,Developing,248,2,35.7,4737.66996,2425561
+Nepal,69.2,2015,Developing,165,17,19.1,743.7653489,28656282
+Netherlands,81.9,2015,Developed,57,1,62.1,44292.88473,16939923
+New Zealand,81.6,2015,Developed,66,0,67.5,3821.8937,
+Nicaragua,74.8,2015,Developing,145,2,54,295.966488,68235
+Niger,61.8,2015,Developing,22,49,19.3,358.99731,19896965
+Nigeria,54.5,2015,Developing,344,483,25.4,2655.157977,181181744
+Norway,81.8,2015,Developed,59,0,61.2,7455.24654,518867
+Oman,76.6,2015,Developing,99,1,54.6,16627.36433,
+Pakistan,66.4,2015,Developing,161,352,25.4,1431.244865,18938513
+Panama,77.8,2015,Developing,118,1,57.8,13134.4367,3969249
+Papua New Guinea,62.9,2015,Developing,275,10,48.6,,7919825
+Paraguay,74,2015,Developing,146,2,5.2,419.367724,6639119
+Peru,75.5,2015,Developing,123,8,55.6,63.343259,31376671
+Philippines,68.5,2015,Developing,211,52,25.4,2878.33837,11716359
+Poland,77.5,2015,Developed,117,2,61.7,12565.9876,37986412
+Portugal,81.1,2015,Developed,76,0,61.6,1922.681,135876
+Qatar,78.2,2015,Developing,68,0,69.3,66346.52267,
+Republic of Korea,82.3,2015,Developing,64,1,31.7,,
+Republic of Moldova,72.1,2015,Developing,157,1,53.4,,
+Romania,75,2015,Developed,133,2,6.7,8958.788593,19815481
+Russian Federation,75,2015,Developing,222,13,6.5,9329.298351,1449687
+Rwanda,66.1,2015,Developing,227,11,21.4,71.348397,11629553
+Saint Lucia,75.2,2015,Developing,138,0,47.5,,
+Saint Vincent and the Grenadines,73.2,2015,Developing,156,0,54.1,,
+Samoa,74,2015,Developing,125,0,74.7,4149.363444,193759
+Sao Tome and Principe,67.5,2015,Developing,19,0,3.9,1624.63963,195553
+Saudi Arabia,74.5,2015,Developing,88,7,68.2,2732.86172,
+Senegal,66.7,2015,Developing,188,19,24.3,98.7256145,14976994
+Serbia,75.6,2015,Developing,121,1,6,5237.255334,795383
+Seychelles,73.2,2015,Developing,168,0,37.4,1539.464,93419
+Sierra Leone,51,2015,Developing,413,22,24.4,587.538233,723725
+Singapore,83.1,2015,Developed,55,0,33.2,53629.73746,
+Slovakia,76.7,2015,Developed,19,0,59.1,,
+Slovenia,88,2015,Developed,74,0,6.1,2729.86383,263531
+Solomon Islands,69.2,2015,Developing,177,0,5.5,1922.41388,587482
+Somalia,55,2015,Developing,312,50,24.3,426.98537,
+South Africa,62.9,2015,Developing,328,42,51.1,5769.77258,5511976.68
+South Sudan,57.3,2015,Developing,332,26,,758.725782,11882136
+Spain,82.8,2015,Developed,56,1,66.6,25683.84565,46447697
+Sri Lanka,74.9,2015,Developing,138,3,23.4,3844.89123,2966
+Sudan,64.1,2015,Developing,225,58,,2513.884661,3864783
+Suriname,71.6,2015,Developing,176,0,58.3,8818.982566,55328
+Swaziland,58.9,2015,Developing,373,2,32.3,3136.92511,131911
+Sweden,82.4,2015,Developed,53,0,59.5,5585.25847,9799186
+Switzerland,83.4,2015,Developed,49,0,57.4,8989.8424,8282396
+Syrian Arab Republic,64.5,2015,Developing,293,6,57.1,,18734987
+Tajikistan,69.7,2015,Developing,161,10,4.7,918.6771543,8548651
+Thailand,74.9,2015,Developing,148,8,33.6,5814.863134,686576
+The former Yugoslav republic of Macedonia,75.7,2015,Developing,12,0,6.3,,
+Timor-Leste,68.3,2015,Developing,152,2,17.4,1161.76935,124977
+Togo,59.9,2015,Developing,287,13,24.3,551.138346,741682
+Tonga,73.5,2015,Developing,133,0,75.2,493.775387,16364
+Trinidad and Tobago,71.2,2015,Developing,17,0,47.1,17321.83373,13692
+Tunisia,75.3,2015,Developing,1,3,61.2,3828.91589,11273661
+Turkey,75.8,2015,Developing,16,15,66.1,1979.52569,78271472
+Turkmenistan,66.3,2015,Developing,215,6,48.6,6432.668768,5565284
+Uganda,62.3,2015,Developing,291,66,18.5,693.8963829,414487
+Ukraine,71.3,2015,Developing,195,4,61.3,2124.662666,4515429
+United Arab Emirates,77.1,2015,Developing,75,1,64.2,3911.74689,
+United Kingdom of Great Britain and Northern Ireland,81.2,2015,Developed,69,3,66.6,,
+United Republic of Tanzania,61.8,2015,Developing,279,85,23.8,,
+United States of America,79.3,2015,Developed,13,23,69.6,,
+Uruguay,77,2015,Developing,116,0,64,15524.84247,3431552
+Uzbekistan,69.4,2015,Developing,184,15,44.7,2137.576852,312989
+Vanuatu,72,2015,Developing,13,0,53.3,285.83414,26463
+Venezuela (Bolivarian Republic of),74.1,2015,Developing,157,9,62.1,,
+Viet Nam,76,2015,Developing,127,28,17.5,,
+Yemen,65.7,2015,Developing,224,37,41.3,,
+Zambia,61.8,2015,Developing,33,27,23.4,1313.889646,161587
+Zimbabwe,67,2015,Developing,336,22,31.8,118.69383,15777451
+Afghanistan,59.9,2014,Developing,271,64,18.6,612.696514,327582
+Albania,77.5,2014,Developing,8,0,57.2,4575.763787,288914
+Algeria,75.4,2014,Developing,11,21,58.4,547.8517,39113313
+Angola,51.7,2014,Developing,348,67,22.7,479.31224,2692466
+Antigua and Barbuda,76.2,2014,Developing,131,0,47,12888.29667,
+Argentina,76.2,2014,Developing,118,8,62.2,12245.25645,42981515
+Armenia,74.6,2014,Developing,12,1,54.1,3994.712355,29622
+Australia,82.7,2014,Developed,6,1,66.1,62214.6912,2346694
+Austria,81.4,2014,Developed,66,0,57.1,51322.63997,8541575
+Azerbaijan,72.5,2014,Developing,119,5,51.5,7891.299776,953579
+Bahamas,75.4,2014,Developing,16,0,63.8,,
+Bahrain,76.8,2014,Developing,7,0,62.9,24983.3792,
+Bangladesh,71.4,2014,Developing,132,98,17.7,184.56543,15945279
+Barbados,75.4,2014,Developing,1,0,53.7,15359.66971,
+Belarus,72,2014,Developing,199,0,61.7,8318.429294,9474511
+Belgium,89,2014,Developed,76,0,63.4,47439.39684,112957
+Belize,70,2014,Developing,177,0,5.1,4852.223666,351694
+Benin,59.7,2014,Developing,252,25,25.2,943.686575,1286712
+Bhutan,69.4,2014,Developing,216,0,23.6,2522.7968,776448
+Bolivia (Plurinational State of),74,2014,Developing,189,8,51.9,,
+Bosnia and Herzegovina,77.2,2014,Developing,89,0,55.3,5193.94932,35662
+Botswana,65.1,2014,Developing,268,2,37.3,7497.762376,2168573
+Brazil,74.8,2014,Developing,144,44,55.3,1226.61731,24213133
+Brunei Darussalam,77.6,2014,Developing,8,0,4.2,4159.8652,
+Bulgaria,74.3,2014,Developed,138,1,65.1,7853.335191,7223938
+Burkina Faso,59.3,2014,Developing,268,39,18.8,75.1464113,17585977
+Burundi,59.1,2014,Developing,297,22,18.2,312.7489794,989179
+Côte d'Ivoire,52.8,2014,Developing,47,58,27.4,,
+Cabo Verde,73,2014,Developing,117,0,3.5,3529.61843,526437
+Cambodia,68.3,2014,Developing,179,11,18.9,198.687123,152779
+Cameroon,56.7,2014,Developing,366,47,28.4,1441.1417,2223994
+Canada,82,2014,Developing,65,2,66.4,544.43376,35544564
+Central African Republic,58,2014,Developing,437,15,22.1,377.132274,4515392
+Chad,52.6,2014,Developing,362,46,18.7,125.998515,13569438
+Chile,83,2014,Developing,83,2,63.1,14817.37778,17613798
+China,75.8,2014,Developing,86,171,31.9,7683.5238,136427
+Colombia,74.6,2014,Developing,144,11,57.2,7913.383432,47791911
+Comoros,63.2,2014,Developing,23,1,23.7,852.954379,759385
+Congo,64.2,2014,Developing,275,7,26.8,,
+Costa Rica,79.5,2014,Developing,96,1,59.5,1647.44179,4757575
+Croatia,77.8,2014,Developed,97,0,63.1,13467.46827,4238389
+Cuba,79,2014,Developing,93,1,6.7,75.5199,
+Cyprus,83,2014,Developed,53,0,59.8,2734.88382,115239
+Czechia,78.6,2014,Developed,88,0,65.6,,
+Democratic People's Republic of Korea,73,2014,Developing,142,6,32.4,,
+Democratic Republic of the Congo,59.3,2014,Developing,266,237,21.1,,
+Denmark,84,2014,Developed,73,0,58.4,62425.5392,5643475
+Djibouti,63,2014,Developing,252,1,34.4,174.91511,912164
+Dominican Republic,73.6,2014,Developing,154,6,57.9,6268.692122,145844
+Ecuador,76,2014,Developing,121,6,53.5,6432.216537,1593112
+Egypt,78,2014,Developing,161,53,6.2,,
+El Salvador,73.3,2014,Developing,181,2,55.4,3988.771871,6281189
+Equatorial Guinea,57.9,2014,Developing,32,3,24,192.59733,1129424
+Eritrea,64.4,2014,Developing,261,5,18,,
+Estonia,77.3,2014,Developing,122,0,59.4,19941.45532,1314545
+Ethiopia,64.2,2014,Developing,234,140,17.2,571.1622759,97366774
+Fiji,69.7,2014,Developing,19,0,61.9,546.3728,88586
+Finland,89,2014,Developing,78,0,61.7,49914.61864,5461512
+France,82.2,2014,Developing,79,3,62,42955.24287,66331957
+Gabon,65.5,2014,Developing,237,2,35.8,9692.163874,1875713
+Gambia,68,2014,Developing,266,3,26.7,,
+Georgia,74.5,2014,Developing,125,1,55.3,4429.6575,3727
+Germany,89,2014,Developed,69,2,61.9,4792.65288,89825
+Ghana,62.1,2014,Developing,253,37,28,1432.227943,26962563
+Greece,88,2014,Developing,73,0,66,21673.7817,1892413
+Grenada,73.5,2014,Developing,143,0,47.4,8569.776998,
+Guatemala,71.7,2014,Developing,187,10,49.9,3687.763767,15923559
+Guinea,58.1,2014,Developing,299,27,22.7,561.997387,118559
+Guinea-Bissau,58.4,2014,Developing,282,4,25.6,642.6256154,1725744
+Guyana,66,2014,Developing,217,0,45.9,43.82321,763393
+Haiti,63.1,2014,Developing,245,14,48.8,83.1148117,1572466
+Honduras,74.5,2014,Developing,149,3,5.2,2242.711912,889216
+Hungary,75.6,2014,Developed,137,0,64.2,14117.97668,9866468
+Iceland,82.5,2014,Developed,49,0,6.6,52473.11356,327386
+India,68,2014,Developing,184,957,18.1,1573.11889,1293859294
+Indonesia,68.9,2014,Developing,179,119,26.5,3491.595887,255131116
+Iran (Islamic Republic of),75.4,2014,Developing,83,19,58.5,,
+Iraq,67.9,2014,Developing,199,32,58.5,673.74737,3568
+Ireland,81.2,2014,Developed,66,0,62.1,5553.32623,4617225
+Israel,82.2,2014,Developing,6,1,64.6,37582.84624,82157
+Italy,82.5,2014,Developed,57,2,63.1,35396.66517,678914
+Jamaica,75.8,2014,Developing,133,1,53.5,4855.743789,286287
+Japan,83.5,2014,Developed,57,2,28.6,3896.21151,127276
+Jordan,74,2014,Developing,113,4,64.8,466.94775,88936
+Kazakhstan,69.9,2014,Developing,22,5,52.3,1286.56511,17289224
+Kenya,62.9,2014,Developing,255,56,21.3,1335.6458,462425
+Kiribati,66.1,2014,Developing,2,0,77.1,1684.54274,11458
+Kuwait,74.6,2014,Developing,82,0,7.8,42996.4812,
+Kyrgyzstan,78,2014,Developing,17,3,43.9,,
+Lao People's Democratic Republic,65.3,2014,Developing,199,8,2.9,,
+Latvia,74.4,2014,Developed,156,0,6.7,15725.1374,1993782
+Lebanon,74.8,2014,Developing,99,1,65.4,8161.4614,563279
+Lesotho,52.1,2014,Developing,522,4,32,1174.839214,2145785
+Liberia,58.1,2014,Developing,329,8,26.7,458.4651734,439737
+Libya,72.4,2014,Developing,143,2,63.8,,
+Lithuania,73.4,2014,Developed,169,0,61.9,16554.97139,2932367
+Luxembourg,81.7,2014,Developed,65,0,6.9,119172.7418,556319
+Madagascar,65.1,2014,Developing,225,29,2,452.4631926,2358981
+Malawi,57.6,2014,Developing,377,27,19.2,354.7253961,1768838
+Malaysia,74.8,2014,Developing,126,4,39.5,11183.96191,322817
+Maldives,78.2,2014,Developing,62,0,26.2,7716.2415,41
+Mali,57.8,2014,Developing,272,52,23.2,825.5729915,16962846
+Malta,81.4,2014,Developed,55,0,69.2,2618.92599,427364
+Mauritania,63,2014,Developing,26,8,3.1,1326.66882,46392
+Mauritius,74.2,2014,Developing,148,0,32.8,1153.93822,126934
+Mexico,76.6,2014,Developing,122,31,62.8,1452.27766,1242216
+Micronesia (Federated States of),69.4,2014,Developing,164,0,68.7,,
+Mongolia,68.4,2014,Developing,225,1,51.5,4181.583321,2923896
+Montenegro,75.9,2014,Developing,17,0,61.3,7378.345289,62181
+Morocco,74.1,2014,Developing,96,18,57.5,3154.513484,3431882
+Mozambique,56.7,2014,Developing,375,61,22.2,623.2871141,27212382
+Myanmar,66.4,2014,Developing,21,40,22.9,1262.893782,51924182
+Namibia,65.9,2014,Developing,242,2,34.9,5421.343953,237992
+Nepal,69.6,2014,Developing,158,18,18.5,76.2386977,28323241
+Netherlands,81.7,2014,Developed,58,1,61.6,52157.4687,168658
+New Zealand,81.5,2014,Developed,67,0,66.9,4453.24673,
+Nicaragua,74.5,2014,Developing,148,2,53.2,1975.46477,613997
+Niger,61.4,2014,Developing,223,49,18.9,43.646498,19148219
+Nigeria,53.6,2014,Developing,362,490,24.7,3221.678128,1764652
+Norway,81.6,2014,Developed,61,0,6.8,975.49856,5137232
+Oman,76.4,2014,Developing,11,1,53.5,2458.45226,
+Pakistan,66.2,2014,Developing,162,359,24.7,1316.98966,185546257
+Panama,77.6,2014,Developing,119,1,57.1,12593.7374,393986
+Papua New Guinea,62.7,2014,Developing,278,10,47.9,2182.716565,7755785
+Paraguay,73.9,2014,Developing,147,3,49.4,4712.822736,6552584
+Peru,75.3,2014,Developing,125,8,54.9,6491.5245,3973354
+Philippines,68.4,2014,Developing,214,54,24.8,2842.938353,112249
+Poland,77.3,2014,Developed,12,2,61.1,14341.675,3811735
+Portugal,89,2014,Developed,78,0,6.9,2277.53613,14162
+Qatar,78.1,2014,Developing,69,0,68.4,86852.7119,
+Republic of Korea,82,2014,Developing,66,1,31.2,,
+Republic of Moldova,71.8,2014,Developing,162,1,52.7,,
+Romania,74.8,2014,Developed,135,2,59.9,12.27733,1998979
+Russian Federation,73,2014,Developing,225,13,59.9,14125.961,143819666
+Rwanda,65.7,2014,Developing,23,12,2.8,76.5699517,11345357
+Saint Lucia,75,2014,Developing,139,0,46.7,,
+Saint Vincent and the Grenadines,73.1,2014,Developing,157,0,53.1,,
+Samoa,73.8,2014,Developing,128,0,74.3,4178.973369,19229
+Sao Tome and Principe,67.3,2014,Developing,191,0,3.1,1821.878734,191266
+Saudi Arabia,74.4,2014,Developing,88,7,67.3,24575.434,
+Senegal,66.4,2014,Developing,192,19,23.8,152.443873,14546111
+Serbia,75.4,2014,Developing,123,1,59.4,62.173221,713576
+Seychelles,73,2014,Developing,17,0,36.2,1557.77892,91359
+Sierra Leone,48.1,2014,Developing,463,23,23.8,78.4394757,779162
+Singapore,82.9,2014,Developed,56,0,32.9,56336.7234,
+Slovakia,76.4,2014,Developed,113,0,58.4,,
+Slovenia,87,2014,Developed,76,0,59.5,242.67286,26198
+Solomon Islands,68.8,2014,Developing,183,0,49.7,29.652622,57554
+Somalia,54.3,2014,Developing,321,51,23.8,417.89143,
+South Africa,62,2014,Developing,347,42,5.3,6479.625659,54146734.74
+South Sudan,56.6,2014,Developing,343,26,,1151.861715,1153971
+Spain,82.6,2014,Developed,58,1,66,296.47225,4648882
+Sri Lanka,74.7,2014,Developing,141,3,22.7,382.54994,2771
+Sudan,63.8,2014,Developing,229,59,,2176.89829,37737913
+Suriname,71.4,2014,Developing,178,0,57.7,9564.46383,547928
+Swaziland,58.4,2014,Developing,382,2,31.8,3464.35169,129597
+Sweden,82.3,2014,Developed,54,0,59,5918.19898,969611
+Switzerland,83.2,2014,Developed,51,0,57,85814.58857,8188649
+Syrian Arab Republic,64.4,2014,Developing,294,7,56.2,,19239
+Tajikistan,69.6,2014,Developing,162,10,39.9,114.45919,8362745
+Thailand,74.6,2014,Developing,152,8,32.4,5941.8471,68416772
+The former Yugoslav republic of Macedonia,75.5,2014,Developing,12,0,59.7,,
+Timor-Leste,68,2014,Developing,155,2,17,1153.51578,1212814
+Togo,59.7,2014,Developing,285,13,23.7,62.1318489,7228915
+Tonga,73.3,2014,Developing,135,0,74.8,4192.349758,15782
+Trinidad and Tobago,71.1,2014,Developing,171,0,46,19325.24283,1354493
+Tunisia,75.1,2014,Developing,12,3,6.2,4271.68172,1114398
+Turkey,75.5,2014,Developing,17,16,65.3,12127.22522,773628
+Turkmenistan,66,2014,Developing,217,7,47.7,7962.365824,5466241
+Uganda,61.5,2014,Developing,38,68,18.1,719.172669,38833338
+Ukraine,78,2014,Developing,23,4,6.7,314.658296,45271947
+United Arab Emirates,76.9,2014,Developing,77,1,62.4,44449.7435,
+United Kingdom of Great Britain and Northern Ireland,81,2014,Developed,71,3,66,,
+United Republic of Tanzania,67,2014,Developing,34,86,23.2,,
+United States of America,79.1,2014,Developed,14,23,69.1,,
+Uruguay,76.8,2014,Developing,117,0,63.4,16737.89827,3419546
+Uzbekistan,69.2,2014,Developing,184,16,43.9,25.448414,37577
+Vanuatu,71.7,2014,Developing,134,0,52.5,3148.36513,25885
+Venezuela (Bolivarian Republic of),73.9,2014,Developing,158,9,61.5,,
+Viet Nam,75.9,2014,Developing,128,28,16.7,,
+Yemen,65.4,2014,Developing,228,37,4.4,,
+Zambia,61.1,2014,Developing,314,28,22.8,1738.8822,1562974
+Zimbabwe,59.2,2014,Developing,371,23,31.3,127.47462,15411675
